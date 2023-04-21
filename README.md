@@ -20,8 +20,8 @@ Steps to run the app
 
 - Clone the JobFinder React Native app from the GitHub repository to
   your local machine using the command git clone
-  https://github.com/ShubhamSKadam/JobFinder_React_native.git.
-
+  https://github.com/Divyanshigarg/Job_Finder_React_Native.git
+  
 - Navigate to the project directory using the command cd  
   JobFinder_React_native.
 
